@@ -2,7 +2,7 @@
 
 Багатомодульний Maven-проект веб-застосунку на Spring Boot з PostgreSQL, Flyway, Docker та підтримкою деплою на Render.
 
-**Автор:** Max Sheludchenko
+**Автор:** 
 
 ---
 
